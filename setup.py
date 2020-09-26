@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="Hao Xiu", # Replace with your own username
+    name="JsonChecker-Svtter", # Replace with your own username
     version="0.0.1",
     author="Svtter",
     author_email="svtter@qq.com",

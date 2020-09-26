@@ -6,6 +6,14 @@
 Check the python dict type via json file.
 
 
+## Install
+
+
+```bash
+pip install JsonChecker-Svtter
+```
+
+
 ## Usage
 
 
